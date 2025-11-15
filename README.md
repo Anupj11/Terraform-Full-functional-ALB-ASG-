@@ -94,11 +94,12 @@ Dependency mapping using references
 
 Reusable, readable code structure
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---
 
-👤 Author:-   
+## 👨‍💻 **Author**
 
-Anup Jadhav | 
-Cloud & DevOps Engineer
+**<span style="font-size:18px; font-weight:700;">Anup Jadhav</span>**  
+**AWS Cloud & DevOps Engineer**  
+📧 **Email:** [jadhavanup15@gmail.com](mailto:jadhavanup15@gmail.com)
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---
